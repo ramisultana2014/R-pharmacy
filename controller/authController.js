@@ -44,7 +44,7 @@ export const login = async (req, res) => {
   res.cookie("rPharmacy", token, {
     httpOnly: true,
     expires: new Date(Date.now() + 1000 * 60 * 60 * 24),
-    secure: process.env.NODE_ENV === "production",
+    secure: true,
   });
   user.password = undefined;
 
