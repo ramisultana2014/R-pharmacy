@@ -1,0 +1,69 @@
+[
+  {
+    "category": "health care",
+    "mainCategory": ["Sports And Nutrition", "Childrens Health"],
+    "brandImages": [
+      "https://www.binsina.ae/media/wysiwyg/icons/Omron-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Paranix-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Durex-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Optimum-Nutrition-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/3m-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/3m-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Innermost-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Bepanthen-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Lypotrol-logo.jpg"
+    ],
+    "mainImage": "https://www.binsina.ae/media/wysiwyg/Mega_Menu__420X272_HealthCare.jpg"
+  },
+  {
+    "category": "Vitamins & Supplements",
+    "mainCategory": [
+      "Anti Oxidants",
+      "Bone And Joint Care",
+      "Fish Oil And Omega 3",
+      "Mens Health"
+    ],
+    "brandImages": [
+      "https://www.binsina.ae/media/wysiwyg/icons/Hollan-And-Barrett-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Priorin-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Vitabiotics-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Tom-Oliver-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Natures-Bounty-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Natures-Bounty-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Marnys-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Now-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Comvita-logo.jpg"
+    ],
+    "mainImage": "https://www.binsina.ae/media/wysiwyg/Mega_Menu__420X272_Vitamins.jpg"
+  },
+  {
+    "category": "Skin Care",
+    "mainCategory": ["Body Care", "Face Care"],
+    "brandImages": [
+      "https://www.binsina.ae/media/wysiwyg/icons/La-Roche-Posay-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Skinceuticals-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Zein-Obagi-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Bioderma-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Vichy-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Uriage-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Avene-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Eucerin-logo.jpg"
+    ],
+    "mainImage": "https://www.binsina.ae/media/wysiwyg/Mega_Menu__420X272_SkinCare.jpg"
+  },
+  {
+    "category": "Cosmetics",
+    "mainCategory": ["Makeup", "Beauty Accessories"],
+    "brandImages": [
+      "https://www.binsina.ae/media/wysiwyg/icons/Bourjois-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Maybelline-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Loreal-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Kiss-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Rimmel-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Mavala-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Pinky-Goat-logo.jpg",
+      "https://www.binsina.ae/media/wysiwyg/icons/Maxfactor-logo.jpg"
+    ],
+    "mainImage": "https://www.binsina.ae/media/wysiwyg/Mega_Menu__420X272_Cosmetics.jpg"
+  }
+]
